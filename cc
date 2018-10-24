@@ -21,7 +21,7 @@
 
             "name": "CCTV4",
 
-"url":"http://111.11.121.143:6610/hbgd/cctv-4/1.m3u8?IASHttpSessionId=SLB2406620161023145323487675"
+"url":"http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
         },
         {
 
