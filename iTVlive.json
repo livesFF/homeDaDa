@@ -1,0 +1,1636 @@
+ {
+ "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+ "title": "iTVlive",
+ "channels": [
+  {
+   "name": "CCTV-1",
+
+   "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8"
+        },
+        {
+            "name": "CCTV-2",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000002/index.m3u8"
+        },
+        {
+            "name": "CCTV-3",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000003/index.m3u8"
+        },
+        {
+            "name": "CCTV-4",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000004/index.m3u8"
+        },
+        {
+            "name": "CCTV-5",
+
+            "url": "http://223.110.243.155/PLTV/3/224/3221227466/index.m3u8#http://223.110.243.155/PLTV/3/224/3221227478/index.m3u8"
+        },
+        {
+            "name": "CCTV-6",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8"
+        },
+        {
+            "name": "CCTV-7",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000007/index.m3u8"
+        },
+        {
+            "name": "CCTV-8",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8"
+        },
+        {
+            "name": "CCTV-9",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000009/index.m3u8"
+        },
+        {
+            "name": "CCTV-10",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000010/index.m3u8"
+        },
+        {
+            "name": "CCTV-11",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000011/index.m3u8"
+        },
+        {
+            "name": "CCTV-12",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000012/index.m3u8"
+        },
+        {
+            "name": "CCTV-13",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000013/index.m3u8"
+        },
+        {
+            "name": "CCTV-14",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000014/index.m3u8"
+        },
+        {
+            "name": "CCTV-15",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000015/index.m3u8"
+        },
+        {
+            "name": "浙江卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000016/index.m3u8"
+        },
+        {
+            "name": "湖南卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000017/index.m3u8"
+        },
+        {
+            "name": "江苏卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000018/index.m3u8"
+        },
+        {
+            "name": "北京卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000019/index.m3u8"
+        },
+        {
+            "name": "安徽卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000020/index.m3u8"
+        },
+        {
+            "name": "天津卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000021/index.m3u8"
+        },
+        {
+            "name": "东方卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000022/index.m3u8"
+        },
+        {
+            "name": "重庆卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000023/index.m3u8"
+        },
+        {
+            "name": "深圳卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000024/index.m3u8"
+        },
+        {
+            "name": "广东卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000025/index.m3u8"
+        },
+        {
+            "name": "辽宁卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000026/index.m3u8"
+        },
+        {
+            "name": "黑龙江卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000027/index.m3u8"
+        },
+        {
+            "name": "东南卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000028/index.m3u8"
+        },
+        {
+            "name": "陕西卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000029/index.m3u8"
+        },
+        {
+            "name": "旅游卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000030/index.m3u8"
+        },
+        {
+            "name": "湖北卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000031/index.m3u8"
+        },
+        {
+            "name": "山西卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000032/index.m3u8"
+        },
+        {
+            "name": "四川卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000033/index.m3u8"
+        },
+        {
+            "name": "河北卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000034/index.m3u8"
+        },
+        {
+            "name": "江西卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000035/index.m3u8"
+        },
+        {
+            "name": "吉林卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000036/index.m3u8"
+        },
+        {
+            "name": "河南卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000037/index.m3u8"
+        },
+        {
+            "name": "河北卫视",
+
+            "url": "http://weblive.hebtv.com/live/hbws_bq/index.m3u8"
+        },
+        {
+            "name": "广西卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000038/index.m3u8"
+        },
+        {
+            "name": "云南卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000039/index.m3u8"
+        },
+        {
+            "name": "内蒙古卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000040/index.m3u8"
+        },
+        {
+            "name": "贵州卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000041/index.m3u8"
+        },
+        {
+            "name": "青海卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000042/index.m3u8"
+        },
+        {
+            "name": "宁夏卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000043/index.m3u8"
+        },
+        {
+            "name": "新疆卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000044/index.m3u8"
+        },
+        {
+            "name": "西藏卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000045/index.m3u8"
+        },
+        {
+            "name": "甘肃卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000046/index.m3u8"
+        },
+        {
+            "name": "山东卫视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000051/index.m3u8"
+        },
+        {
+            "name": "黔南-1",
+
+            "url": "http://gzqn.chinashadt.com:1936/live/qntv5.stream/playlist.m3u8"
+        },
+        {
+            "name": "黔南-2",
+
+            "url": "http://gzqn.chinashadt.com:1936/live/qntv2.stream/playlist.m3u8"
+        },
+        {
+            "name": "贵州-2",
+
+            "url": "rtmp://pili-live-rtmp.live.v2gogo.com/v2gogo-live/guizhou2pindao_official"
+        },
+        {
+            "name": "清华大学电视台",
+
+            "url": "http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv"
+        },
+        {
+            "name": "翡翠台",
+
+            "url": "http://m.567it.com/jade.m3u8"
+        },
+        {
+            "name": "山东齐鲁",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8"
+        },
+        {
+            "name": "山东公共",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000053/index.m3u8"
+        },
+        {
+            "name": "山东综艺",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000054/index.m3u8"
+        },
+        {
+            "name": "山东生活",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000055/index.m3u8"
+        },
+        {
+            "name": "山东影视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000056/index.m3u8"
+        },
+        {
+            "name": "山东体育",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000057/index.m3u8"
+        },
+        {
+            "name": "山东农科",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000058/index.m3u8"
+        },
+        {
+            "name": "山东国际",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000060/index.m3u8"
+        },
+        {
+            "name": "济南新闻综合",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000061/index.m3u8"
+        },
+        {
+            "name": "济南都市",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000062/index.m3u8"
+        },
+        {
+            "name": "济南生活",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000063/index.m3u8"
+        },
+        {
+            "name": "济南影视",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000064/index.m3u8"
+        },
+        {
+            "name": "济南娱乐",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000065/index.m3u8"
+        },
+        {
+            "name": "济南商务",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000066/index.m3u8"
+        },
+        {
+            "name": "济南少儿",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000067/index.m3u8"
+        },
+        {
+            "name": "临沂综合",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000120/index.m3u8"
+        },
+        {
+            "name": "临沂农科",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000121/index.m3u8"
+        },
+        {
+            "name": "潍坊新闻",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8"
+        },
+        {
+            "name": "潍坊都市",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000216/index.m3u8"
+        },
+        {
+            "name": "日照新闻综合",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000262/index.m3u8"
+        },
+        {
+            "name": "日照科教",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000263/index.m3u8"
+        },
+        {
+            "name": "威海新闻综合",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000274/index.m3u8"
+        },
+        {
+            "name": "威海公共",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000275/index.m3u8"
+        },
+        {
+            "name": "莱州新闻综合",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8"
+        },
+        {
+            "name": "莱州公共",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000281/index.m3u8"
+        },
+        {
+            "name": "德州新闻",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000206/index.m3u8"
+        },
+        {
+            "name": "德州公共",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000207/index.m3u8"
+        },
+        {
+            "name": "WFTV-1",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000215/index.m3u8"
+        },
+        {
+            "name": "WFTV-2",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000216/index.m3u8"
+        },
+        {
+            "name": "新闻综合",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000262/index.m3u8"
+        },
+        {
+            "name": "科教",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000263/index.m3u8"
+        },
+        {
+            "name": "娱乐",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000274/index.m3u8"
+        },
+        {
+            "name": "公共2",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000275/index.m3u8"
+        },
+        {
+            "name": "烟台新闻综合",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8"
+        },
+        {
+            "name": "烟台公共",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000281/index.m3u8"
+        },
+        {
+            "name": "齐鲁频道",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000313/index.m3u8"
+        },
+        {
+            "name": "海看生活",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000202/index.m3u8"
+        },
+        {
+            "name": "海看教育",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000204/index.m3u8"
+        },
+        {
+            "name": "海看演艺",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000400/index.m3u8"
+        },
+        {
+            "name": "海看健康",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000401/index.m3u8"
+        },
+        {
+            "name": "海看少儿",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000402/index.m3u8"
+        },
+        {
+            "name": "海看剧场",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000403/index.m3u8"
+        },
+        {
+            "name": "海看大片",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000404/index.m3u8"
+        },
+        {
+            "name": "海看热播",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000405/index.m3u8"
+        },
+        {
+            "name": "靓装频道",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000406/index.m3u8"
+        },
+        {
+            "name": "青岛新闻综合",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8"
+        },
+        {
+            "name": "青岛公共频道",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8"
+        },
+        {
+            "name": "青岛生活服务",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8"
+        },
+        {
+            "name": "青岛财经资讯",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8"
+        },
+        {
+            "name": "青岛都市频道",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8"
+        },
+        {
+            "name": "青岛青少旅游",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8"
+        },
+        {
+            "name": "百姓健康",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000602/index.m3u8"
+        },
+        {
+            "name": "央广健康",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000603/index.m3u8"
+        },
+        {
+            "name": "美食天府",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000604/index.m3u8"
+        },
+        {
+            "name": "家庭理财",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000605/index.m3u8"
+        },
+        {
+            "name": "证券资讯",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000606/index.m3u8"
+        },
+        {
+            "name": "财富天下",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000607/index.m3u8"
+        },
+        {
+            "name": "职业指南",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000608/index.m3u8"
+        },
+        {
+            "name": "中国气象",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000609/index.m3u8"
+        },
+        {
+            "name": "家政频道",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000610/index.m3u8"
+        },
+        {
+            "name": "电子体育",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000611/index.m3u8"
+        },
+        {
+            "name": "人物频道",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8"
+        },
+        {
+            "name": "风云音乐",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8"
+        },
+        {
+            "name": "第一剧场",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000614/index.m3u8"
+        },
+        {
+            "name": "世界地理",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000615/index.m3u8"
+        },
+        {
+            "name": "女性时尚",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000616/index.m3u8"
+        },
+        {
+            "name": "风云剧场",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000617/index.m3u8"
+        },
+        {
+            "name": "风云足球",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8"
+        },
+        {
+            "name": "高尔夫网球",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000620/index.m3u8"
+        },
+        {
+            "name": "文化精品",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000621/index.m3u8"
+        },
+        {
+            "name": "怀旧剧场",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8"
+        },
+        {
+            "name": "老故事",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000624/index.m3u8"
+        },
+        {
+            "name": "早期教育",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000627/index.m3u8"
+        },
+        {
+            "name": "城市建设",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000628/index.m3u8"
+        },
+        {
+            "name": "现代女性",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000629/index.m3u8"
+        },
+        {
+            "name": "武术世界",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000634/index.m3u8"
+        },
+        {
+            "name": "文物宝库",
+
+            "url": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000635/index.m3u8"
+        },
+        {
+            "name": "国学频道",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000636/index.m3u8"
+        },
+        {
+            "name": "彩民在线",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000638/index.m3u8"
+        },
+        {
+            "name": "卫生健康",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000639/index.m3u8"
+        },
+        {
+            "name": "教育就业",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000642/index.m3u8"
+        },
+        {
+            "name": "环球旅游",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000643/index.m3u8"
+        },
+        {
+            "name": "新娱乐",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000644/index.m3u8"
+        },
+        {
+            "name": "车迷频道",
+
+            "url": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000645/index.m3u8"
+        },
+        {
+            "name": "张店",
+
+            "url": "http://120.221.2.42:8089/PLTV/88888888/224/3221225829/index.m3u8"
+        },
+        {
+            "name": "探索频道",
+
+            "url": "rtmp://iptv.ncut.edu.cn:1935/livetv/discovery"
+        },
+        {
+            "name": "国家地理",
+
+            "url": "rtmp://iptv.ncut.edu.cn:1935/livetv/natlgeo"
+        },
+        {
+            "name": "上海新闻",
+
+            "url": "http://111.20.33.8/PLTV/88888888/224/3221225616/index.m3u8"
+        },
+        {
+            "name": "上海综合",
+
+            "url": "http://111.20.33.8/PLTV/88888888/224/3221225615/index.m3u8"
+        },
+        {
+            "name": "上海艺术",
+
+            "url": "http://111.20.33.8/PLTV/88888888/224/3221225614/index.m3u8"
+        },
+        {
+            "name": "第一财经",
+
+            "url": "http://111.20.33.8/PLTV/88888888/224/3221225613/index.m3u8"
+        },
+        {
+            "name": "娱乐",
+
+            "url": "http://111.20.33.8/PLTV/88888888/224/3221225612/index.m3u8"
+        },
+        {
+            "name": "上海电视剧",
+
+            "url": "http://111.20.33.8/PLTV/88888888/224/3221225611/index.m3u8"
+        },
+        {
+            "name": "湖南电影",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001070.sdp?vcdnid=001"
+        },
+        {
+            "name": "国际频道",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001044.sdp?vcdnid=001"
+        },
+        {
+            "name": "湖南都市",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001049.sdp?vcdnid=001"
+        },
+        {
+            "name": "电视剧",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001050.sdp?vcdnid=001"
+        },
+        {
+            "name": "湖南公共",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001051.sdp?vcdnid=001"
+        },
+        {
+            "name": "湖南经视",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001052.sdp?vcdnid=001"
+        },
+        {
+            "name": "经典电影",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001054.sdp?vcdnid=001"
+        },
+        {
+            "name": "金鹰纪实",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001057.sdp?vcdnid=001"
+        },
+        {
+            "name": "金鹰卡通",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001058.sdp?vcdnid=001"
+        },
+        {
+            "name": "卡酷少儿",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001059.sdp?vcdnid=001"
+        },
+        {
+            "name": "快乐垂钓",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001060.sdp?vcdnid=001"
+        },
+        {
+            "name": "旅游卫视",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001062.sdp?vcdnid=001"
+        },
+        {
+            "name": "热播剧场",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001063.sdp?vcdnid=001"
+        },
+        {
+            "name": "四海钓鱼",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001066.sdp?vcdnid=001"
+        },
+        {
+            "name": "优漫卡通",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001071.sdp?vcdnid=001"
+        },
+        {
+            "name": "玉林新闻综合",
+
+            "url": "http://pili-playback.liveyulin.sobeycache.com/yulintai/zb03.m3u8"
+        },
+        {
+            "name": "玉林公共",
+
+            "url": "http://pili-playback.liveyulin.sobeycache.com/yulintai/zb02.m3u8"
+        },
+        {
+            "name": "玉林知识",
+
+            "url": "http://pili-playback.liveyulin.sobeycache.com/yulintai/zb01.m3u8"
+        },
+        {
+            "name": "经贸频道",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001034.sdp?vcdnid=001"
+        },
+        {
+            "name": "新闻频道",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001035.sdp?vcdnid=001"
+        },
+        {
+            "name": "看看新闻",
+
+            "url": "http://hls.live.kksmg.com/live/live24h/playlist.m3u8"
+        },
+        {
+            "name": "寰宇新闻",
+
+            "url": "http://pulllive-al.wasu.cn/live/1528461345367108.m3u8"
+        },
+        {
+            "name": "@TV快新闻",
+
+            "url": "rtmp://dlrtmp.live.cnlive.com:1935/cdn/news"
+        },
+        {
+            "name": "东方电影",
+
+            "url": "http://web-play.pptv.com/web-m3u8-300149.m3u8?"
+        },
+        {
+            "name": "CHC高清电影",
+
+            "url": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+        {
+            "name": "动作电影",
+
+            "url": "http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8"
+        },
+        {
+            "name": "明星大片",
+
+            "url": "http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8"
+        },
+        {
+            "name": "惊悚悬疑",
+
+            "url": "http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8"
+        },
+        {
+            "name": "爱情喜剧",
+
+            "url": "http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8"
+        },
+        {
+            "name": "精品电影",
+
+            "url": "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8"
+        },
+        {
+            "name": "環球電影",
+
+            "url": "http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
+        },
+        {
+            "name": "句容影视",
+
+            "url": "http://218.3.92.100:1937/live/yingshi/chunklist_w365370764.m3u8"
+        },
+        {
+            "name": "海南影视",
+
+            "url": "http://stream1.hnntv.cn/ysjpd/sd/live.m3u8"
+        },
+        {
+            "name": "山东影视",
+
+            "url": "rtsp://60.214.109.103:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc/34320_Uni.sdp"
+        },
+        {
+            "name": "凤凰电影",
+
+            "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy"
+        },
+        {
+            "name": "高清电影",
+
+            "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/chchd"
+        },
+        {
+            "name": "高清影院1",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
+        },
+        {
+            "name": "高清影院2",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+        },
+        {
+            "name": "高清影院3",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+        {
+            "name": "高清影院4",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
+        },
+        {
+            "name": "高清影院5",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
+        },
+        {
+            "name": "高清影院6",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
+        },
+        {
+            "name": "高清影院7",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+        },
+        {
+            "name": "战旗影院8",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8"
+        },
+        {
+            "name": "战旗影院26",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9_1024/index.m3u8"
+        },
+        {
+            "name": "战旗影院8",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+        {
+            "name": "战旗影院6",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
+        },
+        {
+            "name": "战旗影院10",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
+        },
+        {
+            "name": "战旗影院12",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+        },
+        {
+            "name": "战旗-07032",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
+        },
+        {
+            "name": "战旗-35349",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+        {
+            "name": "战旗-火影",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8"
+        },
+        {
+            "name": "战旗影视 10",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+        },
+        {
+            "name": "战旗影视 12",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8"
+        },
+        {
+            "name": "战旗影视 14",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8"
+        },
+        {
+            "name": "战旗影视 18",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8"
+        },
+        {
+            "name": "战旗影视 22",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
+        },
+        {
+            "name": "战旗影视 24",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8"
+        },
+        {
+            "name": "战旗影视 25",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8"
+        },
+        {
+            "name": "战旗影视 30",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/213167_Dw1GU.m3u8"
+        },
+        {
+            "name": "战旗影视 33",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8"
+        },
+        {
+            "name": "战旗影视 36",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
+        },
+        {
+            "name": "战旗影视 5",
+
+            "url": "http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+        {
+            "name": "电影轮播",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8"
+        },
+        {
+            "name": "电影台",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+        {
+            "name": "CHC高清电影",
+
+            "url": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+        {
+            "name": "电影",
+
+            "url": "http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8"
+        },
+        {
+            "name": "VIP电影1",
+
+            "url": "http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8"
+        },
+        {
+            "name": "VIP电影2",
+
+            "url": "http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8"
+        },
+        {
+            "name": "VIP电影4",
+
+            "url": "http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8"
+        },
+        {
+            "name": "VIP电影-涉足荒野",
+
+            "url": "http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8"
+        },
+        {
+            "name": "高清影院17",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8"
+        },
+        {
+            "name": "战旗电影19",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8"
+        },
+        {
+            "name": "战旗电影21",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+        {
+            "name": "战旗电影54",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8"
+        },
+        {
+            "name": "战旗电影62",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
+        },
+        {
+            "name": "战旗电影88",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8"
+        },
+        {
+            "name": "战旗电影93",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
+        },
+        {
+            "name": "战旗电影96",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8"
+        },
+        {
+            "name": "战旗电影97",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8"
+        },
+        {
+            "name": "黄飞鸿之西域",
+
+            "url": "http://g3.letv.cn/14/44/102/2141722611.0.flv"
+        },
+        {
+            "name": "蚂蚁的力量",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+        },
+        {
+            "name": "河北影视",
+
+            "url": "http://weblive.hebtv.com/live/hbys_bq/index.m3u8"
+        },
+        {
+            "name": "红心柚子",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw_1024/index.m3u8"
+        },
+        {
+            "name": "战旗-经典电影（港）",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/160122_5swCD.m3u8"
+        },
+        {
+            "name": "战旗-电影台",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8"
+        },
+        {
+            "name": "战旗-连续剧",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/96851_ZeePd.m3u8"
+        },
+        {
+            "name": "战旗-魂剧（美）",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/185488_aff4a.m3u8"
+        },
+        {
+            "name": "战旗-港片电影",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8"
+        },
+        {
+            "name": "战旗-港剧",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
+        },
+        {
+            "name": "战旗-经典（美）",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8"
+        },
+        {
+            "name": "战旗-综艺",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8"
+        },
+        {
+            "name": "战旗-武林外传",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8"
+        },
+        {
+            "name": "战旗-懒猫美食",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8"
+        },
+        {
+            "name": "战旗-声优EVENT动漫",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/116067_vYIsj.m3u8"
+        },
+        {
+            "name": "战旗-科幻HD",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/166623_PXdHI.m3u8"
+        },
+        {
+            "name": "战旗-拳超人",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8"
+        },
+        {
+            "name": "战旗-动漫",
+
+            "url": "http://dlhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8"
+        },
+        {
+            "name": "怀柔高清",
+
+            "url": "http://live.huairtv.com:1935/dvrLive/_definst_/hrtvmb/playlist.m3u8"
+        },
+        {
+            "name": "体育赛事",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001074.sdp?vcdnid=001"
+        },
+        {
+            "name": "高尔夫",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001043.sdp?vcdnid=001"
+        },
+        {
+            "name": "电子体育",
+
+            "url": "rtsp://119.39.49.116:554/ch00000090990000001038.sdp?vcdnid=001"
+        },
+        {
+            "name": "ELEVEN SPORTS",
+
+            "url": "http://61.58.60.230:9000/live/102.m3u8"
+        },
+        {
+            "name": "SONY TEN 2",
+
+            "url": "http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/01.m3u8"
+        },
+        {
+            "name": "五星体育",
+
+            "url": "http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/2.m3u8"
+        },
+        {
+            "name": "劲爆体育",
+
+            "url": "http://223.110.243.150/PLTV/2/224/3221226045/2.m3u8?time=1531063047793"
+        },
+        {
+            "name": "广东体育",
+
+            "url": "http://stream1.grtn.cn/typd/sd/live.m3u8?_upt=2d3217d51531080646"
+        },
+        {
+            "name": "山东体育(7.1M)1080HD",
+
+            "url": "rtsp://60.214.109.103:1554/iptv/Tvod/iptv/001/001/ch10111720502861127519.rsc/34421_Uni.sdp"
+        },
+        {
+            "name": "皇马足球台",
+
+            "url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8"
+        },
+        {
+            "name": "WWE摔跤",
+
+            "url": "http://59.80.39.50/flv3.quanmin.tv/live/3766_2115620138.flv"
+        },
+        {
+            "name": "NewTV搏击",
+
+            "url": "http://223.110.245.134/PLTV/3/224/3221226656/index.m3u8"
+        },
+        {
+            "name": "娱乐@TV e娱乐",
+
+            "url": "rtmp://dlrtmp.live.cnlive.com:1935/cdn/eyule"
+        },
+        {
+            "name": "综合娱乐",
+
+            "url": "http://221.181.100.24:8088/wd_r1/wasu/zhpd/600/01.m3u8"
+        },
+        {
+            "name": "金牌综艺",
+
+            "url": "http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8"
+        },
+        {
+            "name": "文安娱乐",
+
+            "url": "http://hbwa.chinashadt.com:1935/live/wayl111.stream/chunklist_w884528645.m3u8"
+        },
+        {
+            "name": "古装剧场",
+
+            "url": "http://183.207.249.14/PLTV/3/224/3221225527/index.m3u8"
+        },
+        {
+            "name": "军旅剧场",
+
+            "url": "http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8"
+        },
+        {
+            "name": "家庭剧场",
+
+            "url": "http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8"
+        },
+        {
+            "name": "海外剧场",
+
+            "url": "http://183.207.249.15/PLTV/3/224/3221225547/index.m3u8"
+        },
+        {
+            "name": "欢笑剧场",
+
+            "url": "http://183.207.249.15/PLTV/2/224/3221226031/2.m3u8"
+        },
+        {
+            "name": "精品大剧",
+
+            "url": "http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8"
+        },
+        {
+            "name": "农业致富",
+
+            "url": "http://183.207.249.15/PLTV/3/224/3221225537/index.m3u8"
+        },
+        {
+            "name": "军事评论",
+
+            "url": "http://183.207.249.14/PLTV/3/224/3221225533/index.m3u8"
+        },
+        {
+            "name": "精品记录",
+
+            "url": "http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8"
+        },
+        {
+            "name": "健康有约",
+
+            "url": "http://183.207.249.14/PLTV/3/224/3221225545/index.m3u8"
+        },
+        {
+            "name": "潮妈辣婆",
+
+            "url": "http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8"
+        },
+        {
+            "name": "兰溪生活娱",
+
+            "url": "http://live.lxzc.net/channels/tvie/channel02/flv:500/live"
+        },
+        {
+            "name": "音乐 mtv",
+
+            "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8"
+        },
+        {
+            "name": "mc音乐台",
+
+            "url": "https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8"
+        },
+        {
+            "name": "CNN",
+
+            "url": "http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8"
+        },
+        {
+            "name": "JASMIN",
+
+            "url": "http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8"
+        },
+        {
+            "name": "@TV炫韩娱",
+
+            "url": "rtmp://dlrtmp.live.cnlive.com:1935/cdn/xuanhanyu"
+        },
+        {
+            "name": "@TV in乐台",
+
+            "url": "http://dlhls.live.cnlive.com:1935/cdn/inyuetai/playlist.m3u8"
+        },
+        {
+            "name": "Channel V音乐台",
+
+            "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/channelv"
+        },
+        {
+            "name": "西安音乐综艺",
+
+            "url": "http://stream2.xiancity.cn/xatv6/sd/live.m3u8"
+        },
+        {
+            "name": "MTV",
+
+            "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8"
+        },
+        {
+            "name": "完美游戏",
+
+            "url": "http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8"
+        },
+        {
+            "name": "游戏风云测试",
+
+            "url": "rtsp://60.214.109.103:1554/iptv/Tvod/iptv/001/001/ch15050917541356779596.rsc/34402_Uni.sdp"
+        },
+        {
+            "name": "第1财经",
+
+            "url": "http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8"
+        },
+        {
+            "name": "耀才财经",
+
+            "url": "http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8"
+        },
+        {
+            "name": "耀才财经2",
+
+            "url": "rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc"
+        },
+        {
+            "name": "凤凰中文HD",
+
+            "url": "http://live.fengshows.com/live/PCC_500k/index.m3u8"
+        },
+        {
+            "name": "凤凰香港1",
+
+            "url": "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
+        },
+        {
+            "name": "凤凰资讯",
+
+            "url": "http://223.110.243.134/PLTV/2510088/224/3221227163/1.m3u8"
+        },
+        {
+            "name": "KNEWS",
+
+            "url": "http://hls-live.kksmg.com/live/live24h/playlist.m3u8"
+        },
+        {
+            "name": "奇妙電視77台",
+
+            "url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+        },
+        {
+            "name": "環球電影頻道",
+
+            "url": "http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
+        },
+        {
+            "name": "澳亚卫视",
+
+            "url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+        },
+        {
+            "name": "澳门卫视",
+
+            "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+        },
+        {
+            "name": "澳门莲花",
+
+            "url": "http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8"
+        },
+        {
+            "name": "澳门卫视",
+
+            "url": "http://live.mastvnet.com/iVx460D/live.m3u8"
+        },
+        {
+            "name": "澳门资讯",
+
+            "url": "http://103.233.191.136/ch5/_definst_/info_ch5.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视澳门",
+
+            "url": "http://103.233.191.136/ch1/_definst_/ch1.live/playlist.m3u8"
+        },
+        {
+            "name": "澳视葡文台",
+
+            "url": "http://103.233.191.136/ch2/_definst_/ch2.live/playlist.m3u8"
+        },
+        {
+            "name": "衛星电视",
+
+            "url": "http://103.233.191.136/ch3/_definst_/ch3.live/playlist.m3u8"
+        },
+        {
+            "name": "澳門立法會",
+
+            "url": "http://103.233.191.136/tv/_definst_/ch21.live/playlist.m3u8"
+        },
+        {
+            "name": "台湾-民视新闻",
+
+            "url": "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
+        },
+        {
+            "name": "台湾-壹新闻",
+
+            "url": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8"
+        },
+        {
+            "name": "唯心电视台wxtv",
+
+            "url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+        },
+        {
+            "name": "优视频道",
+
+            "url": "http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8"
+        },
+        {
+            "name": "美国联合国电台",
+
+            "url": "http://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on"
+        },
+        {
+            "name": "国家地理频道",
+
+            "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo"
+        },
+        {
+            "name": "美國創世電視",
+
+            "url": "http://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_mkz6lwog/sd/10000/t/E_sHOr-u2luCZNl5-f94tw/index-s34.m3u8"
+        },
+        {
+            "name": "NRBTV",
+
+            "url": "http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
+        },
+        {
+            "name": "InfoWars",
+
+            "url": "http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8"
+        },
+        {
+            "name": "BOOK TV",
+
+            "url": "http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8"
+        },
+        {
+            "name": "Alhurra TV",
+
+            "url": "http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
+        },
+        {
+            "name": "CNBC Arabia",
+
+            "url": "http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8"
+        },
+        {
+            "name": "MSNBC",
+
+            "url": "http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8"
+        },
+        {
+            "name": "HISTORY TV",
+
+            "url": "http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8"
+        },
+        {
+            "name": "CBN News",
+
+            "url": "http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8"
+        },
+        {
+            "name": "CBN TV",
+
+            "url": "http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8"
+        },
+        {
+            "name": "TeleCadena SBN",
+
+            "url": "http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w258668948_b548000_sleng.m3u8"
+        },
+        {
+            "name": "Aliento Vision",
+
+            "url": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8"
+        },
+        {
+            "name": "NFL Network",
+
+            "url": "https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8"
+        },
+        {
+            "name": "TUFF TV",
+
+            "url": "http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/chunks.m3u8"
+        },
+        {
+            "name": "MEA TV",
+
+            "url": "http://uni8rtmp.tulix.tv:1935/meatv/myStream.sdp/playlist.m3u8"
+        },
+        {
+            "name": "佛教慧律电视台",
+
+            "url": "mms://down.fodizi.com/tv"
+        },
+        {
+            "name": "美國創世電視",
+
+            "url": "http://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_mkz6lwog/sd/10000/t/E_sHOr-u2luCZNl5-f94tw/index-s34.m3u8"
+        },
+        {
+            "name": "韩国佛教",
+
+            "url": "rtmp://123.108.164.112/etv1/phd553"
+        },
+    ]
+}
